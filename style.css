@@ -1,0 +1,50 @@
+    #headah
+    {
+        width: 100%;
+    text-align: left;
+    }
+
+    #headah h1 {
+        display: inline;
+    }
+
+    #BuTtOn
+    {
+        float: right;
+        border-style: solid;
+        border-color: aliceblue;
+        border-width: 2;
+    }
+#specially
+{
+    width: 100%;
+}
+
+h4
+{
+    background-color: beige;
+    line-height: 2;
+    margin: 0px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.modal-dialog
+{
+    width: 90%;
+}
+
+.good
+{
+    display: inline-block;
+    width: 45%;
+}
+
+video
+{
+    background-image: url("game_console.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover
+}
